@@ -176,3 +176,4 @@ extensión de VS Code **"SQLite Viewer"**.
 ## 7. Autor
 
 Diego — Prueba técnica para el área de Automatizaciones y RPA, Emergia (2026).
+
